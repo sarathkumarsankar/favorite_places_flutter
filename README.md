@@ -11,28 +11,34 @@ https://github.com/sarathkumarsankar/favorite_places_flutter/assets/12977299/0d9
 
 ## Following packages are used:
 
-- **Image Picker:** Flutter plugin for selecting images from the Android and iOS image library and taking new pictures with the camera.
-  - Dependency: [image_picker](https://pub.dev/packages/image_picker) v1.0.5
+1. **Image Picker:**
+   - [image_picker](https://pub.dev/packages/image_picker) v1.0.5
+   - Flutter plugin for selecting images from the Android and iOS image library, and taking new pictures with the camera.
 
-- **Location:** Flutter plugin for handling location on Android and iOS. Provides callbacks when the location is changed.
-  - Dependency: [location](https://pub.dev/packages/location) v5.0.3
+2. **Location Handling:**
+   - [location](https://pub.dev/packages/location) v5.0.3
+   - This Flutter plugin to get the device current location.
 
-- **Geocoding:** Flutter Geocoding plugin for easy geocoding and reverse-geocoding features. Converts latitude and longitude to human-readable addresses.
-  - Dependency: [geocoding](https://pub.dev/packages/geocoding) v2.1.1
+3. **Geocoding:**
+   - [geocoding](https://pub.dev/packages/geocoding) v2.1.1
+   - Used to convert latitude and longitude to human-readable addresses.
 
-- **Path Provider:** Platform-agnostic package to access commonly used locations on the device's file system. Used to move temporary image paths to the system path.
-  - Dependency: [path_provider](https://pub.dev/packages/path_provider) v2.1.1
+4. **Path Provider:**
+   - [path_provider](https://pub.dev/packages/path_provider) v2.1.1
+   - The package provides a platform-agnostic way to access commonly used locations on the device's file system. Used to move temporary image paths to the system path.
 
-- **Path:** Helps create unique path names to save images.
-  - Dependency: [path](https://pub.dev/packages/path) v1.8.3
+5. **Path:**
+   - [path](https://pub.dev/packages/path) v1.8.3
+   - Helps to create a unique path name to save images.
 
-- **SQLite:** Used for storing picked places locally.
-  - Dependency: [sqflite](https://pub.dev/packages/sqflite) v2.3.0
+6. **SQLite:**
+   - [sqflite](https://pub.dev/packages/sqflite) v2.3.0
+   - Used to store picked places locally.
 
-- **Location Picker with Flutter Map:** Allows users to pick locations from the map and shows the current location pointer on the map.
-  - Dependency: [location_picker_flutter_map](https://pub.dev/packages/location_picker_flutter_map) v2.1.0
-
-
+7. **Location Picker with Flutter Map:**
+   - [location_picker_flutter_map](https://pub.dev/packages/location_picker_flutter_map) v2.1.0
+   - Used to pick locations from the map and show the given location pointer on the map.
+     
 ## Getting Started
 
 1. Clone the repository.
