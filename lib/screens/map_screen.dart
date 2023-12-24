@@ -1,7 +1,4 @@
-import 'dart:ffi';
-
 import 'package:flutter/material.dart';
-import 'package:syncfusion_flutter_maps/maps.dart';
 import 'package:favorite_places/models/place.dart';
 import 'package:location_picker_flutter_map/location_picker_flutter_map.dart';
 
