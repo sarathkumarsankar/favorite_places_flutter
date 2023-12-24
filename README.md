@@ -4,6 +4,11 @@
 The Favorite Places App is a Flutter application that allows users to save and manage their favorite places. Users can pick locations from the map, add images, and store them locally using SQLite. The app also includes features like geocoding to convert latitude and longitude to human-readable addresses.
 
 
+
+https://github.com/sarathkumarsankar/favorite_places_flutter/assets/12977299/0d998047-778f-4be2-80d8-b02d0c9c7f9f
+
+
+
 ## Following packages are used:
 
 - **Image Picker:** Flutter plugin for selecting images from the Android and iOS image library and taking new pictures with the camera.
